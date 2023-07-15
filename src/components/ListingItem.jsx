@@ -10,7 +10,7 @@ function ListingItem({ listing, id }) {
         className='categoryListingLink'
       >
         <img
-          src={listing.imgUrls[0]} //fails on this line
+          src={listing.imgUrls[0]} //fails on this line - Cannot read properties of undefined (reading '0')
           alt={listing.name}
           className='categoryListingImg'
         />
