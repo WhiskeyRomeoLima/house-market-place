@@ -5,7 +5,6 @@ export const useAuthStatus = () => {
   const [loggedIn, setLoggedIn] = useState(false)
   const [checkingStatus, setCheckingStatus] = useState(true)
   const isMounted = useRef(true)
-  console.log(isMounted);
   
   useEffect(() => {
     if (isMounted) {

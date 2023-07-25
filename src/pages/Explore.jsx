@@ -3,6 +3,8 @@ import { Link } from 'react-router-dom'
 import rentCategoryImage from '../assets/jpg/rentCategoryImage.jpg'
 import sellCategoryImage from '../assets/jpg/sellCategoryImage.jpg'
 
+//displays links to rent and sale listing with images above each link 
+//and appropriate text below images.
 function Explore() {
   return (
     <div className='explore'>

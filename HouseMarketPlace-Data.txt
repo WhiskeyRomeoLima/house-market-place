@@ -1,0 +1,26 @@
+211 W McKinley St, Gardner, KS 66030, USA
+latitude: 38.8148767
+longitude: -94.9298391
+
+Data:  
+{results: Array(1), status: 'OK'}
+results : Array(1)
+	0: 
+	address_components: Array(8)
+	 [
+	  0: {long_name:  '333', short_name: '333', types: Array(1)}
+	  1: {long_name: 'West McKinley Street', short_name: 'W McKinley St', types: Array(20}
+	  2: {long_name: 'Overland Park', short_name: 'Overland Park', types: Array(2)}
+	  3: {long_name: 'Johnson County', short_name: 'Johnson County', types: Array(2)}
+	  4: {long_name: 'Kansas', short_name: 'KS', types: Array(2)}
+	  5: {long_name: 'United States', short_name: 'US', types: Array(2)}
+	  6: {long_name: '66010', short_name: '66010', types: Array(1)}
+	  7: {long_name: '1623', short_name: '1623', types: Array(1)}
+	]
+	formatted_address: "333 W McKinley St, Overland Park, KS 66010, USA"
+	geometry: 
+	  bounds: {northeast: {…}, southwest: {…}}
+	  location: {lat: 38.8148767, lng: -94.9298391}
+	  location_type:"ROOFTOP"
+	  viewport : {northeast: {…}, southwest: {…}}
+
